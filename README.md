@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/ce43236716/chengrenyeyue/raw/master/call_man.png)
+ ![image](https://github.com/rtlz7/yueyue/raw/master/call_man.png)
 
 ### 好点子？
 
@@ -16,6 +16,6 @@
 
 无论您有任何疑惑，尽管来信，我们会尽快给您答复！
 
-邮箱地址：uqhc8@21cn.com
+邮箱地址：rtlz7@21cn.com
 
-[隐私协议](https://github.com/ce43236716/chengrenyeyue/raw/master/privacy.cmd)
+[隐私协议](https://github.com/rtlz7/yueyue/raw/master/privacy.cmd)
